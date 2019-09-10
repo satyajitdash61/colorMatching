@@ -11,3 +11,6 @@ os: windows/linux/mac
 # Technologies used
 
 Html 5,CSS,javascript
+
+# Preview
+https://angry-chandrasekhar-e2d14e.netlify.com/
