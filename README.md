@@ -1,13 +1,13 @@
-# colorMtaching
+# ColorMatching
 
 Its a color game.
 
-#Requirements
+# Requirements
 
 ram: 2GB
 browser: chrome latest version
 os: windows/linux/mac
 
-#Technologies used
+# Technologies used
 
 Html 5,CSS,javascript
