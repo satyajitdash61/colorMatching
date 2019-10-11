@@ -6,7 +6,7 @@ Its a color game.
 
 Ram: 2GB
 Browser: chrome latest version
-os: windows/linux/mac
+Os: windows/linux/mac
 
 # Technologies used
 
