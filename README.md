@@ -4,7 +4,7 @@ Its a color game.
 
 # Requirements
 
-ram: 2GB
+Ram: 2GB
 browser: chrome latest version
 os: windows/linux/mac
 
